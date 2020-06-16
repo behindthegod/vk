@@ -1,0 +1,15 @@
+.nav {
+    grid-area: n;
+    background-color: rebeccapurple;
+    font-size: 30px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: fuchsia;
+
+}
+
+.nav active {
+    color: greenyellow;
+}
